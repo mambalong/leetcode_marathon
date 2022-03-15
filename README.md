@@ -1,2 +1,2 @@
 # leetcode_record
-Just an ordinary repository
+Just an unimportant repository
